@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Regular standard full-color Omla dark mode background (#111318) -->
+    <background android:drawable="@color/ic_launcher_background" />
+
+    <!-- Regular 3D-effect, rich glowing alert foreground -->
+    <foreground android:drawable="@drawable/ic_launcher_pulse_fg" />
+
+    <!-- The self-adjusting monochrome vector used for Android 13+ Themed Icons -->
+    <monochrome android:drawable="@drawable/ic_launcher_monochrome" />
+</adaptive-icon>
